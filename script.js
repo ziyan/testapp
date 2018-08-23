@@ -30,6 +30,7 @@ var employees = [
   new Person("Emi", "female"),
   new Person("Ziyan", "male"),
   new Person("Erika", "female"),
+  new Person("Sayuri", "female"),
 ]
 
 var app = document.getElementById("app")
